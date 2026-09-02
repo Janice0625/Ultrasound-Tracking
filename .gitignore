@@ -1,0 +1,43 @@
+# === Python 核心與編譯快取 ===
+__pycache__/
+*.py[codz]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# === 編輯器與系統設定 ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+tempCodeRunnerFile.py
+
+# === 專案輸出的結果與暫存資料夾 ===
+saved_images/
+track_test_output/
+count_test_output/
+推論結果/
+runs/
+hidden_vector/
+
+# === 資料集與大型測試圖片資料夾 ===
+data/
+track_test/
+training data/
+test_img/
+
+# === 標記工具與 Checkpoints ===
+labelme/
+.ipynb_checkpoints/
+.hypothesis/
+
+# === 模型權重檔（若有超過 100MB 的檔案建議忽略） ===
+*.pt
+*.pth
+*.h5
