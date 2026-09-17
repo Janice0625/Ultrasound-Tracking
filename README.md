@@ -5,7 +5,7 @@ A computer-assisted pediatric spinal ultrasound system for vertebral segmentatio
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Pediatric spinal ultrasound is commonly used to evaluate spinal structures in newborns. However, ultrasound probes provide only a limited field of view, requiring clinicians to scan the lumbar and sacral regions separately and interpret vertebral positions manually.
 
@@ -20,7 +20,7 @@ The overall goal is to reduce the difficulty of identifying vertebral levels and
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ### 1. U-Net Spine Segmentation
 
@@ -98,7 +98,7 @@ The interface provides:
 
 ---
 
-## 🛠️ System Workflow
+##  System Workflow
 
 ### Stitching Mode
 
@@ -170,7 +170,7 @@ Track Mode can further identify candidate L5 and S1 landmarks and generate image
 
 ---
 
-## 🧠 Technologies
+##  Technologies
 
 ### Programming
 - Python
@@ -196,7 +196,7 @@ Track Mode can further identify candidate L5 and S1 landmarks and generate image
 
 ---
 
-## 🧪 System Testing
+##  System Testing
 
 The system was tested across multiple functional components, including:
 
@@ -216,7 +216,7 @@ The test specification reports successful execution of the major system function
 
 ---
 
-## 📊 Example Processing Pipeline
+##  Example Processing Pipeline
 
 ```text
 Input Ultrasound
@@ -242,7 +242,7 @@ Final Spine Visualization
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 This project aims to:
 
@@ -255,7 +255,7 @@ This project aims to:
 
 ---
 
-## 👥 Team
+##  Team
 
 **Chang Gung University**  
 Department of Computer Science and Information Engineering
@@ -273,7 +273,7 @@ Advisors:
 
 ---
 
-## 📄 Project Type
+##  Project Type
 
 Senior Capstone Project  
 Chang Gung University
